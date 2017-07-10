@@ -5,8 +5,7 @@ date:   2017-06-16
 author: Wenhao Wenonah Zhang
 ---
 
- 
-![picture ]({{ site.url }}/assets/images/wenonah_headshot.jpg){:width="200px" align="right" style="PADDING-LEFT: 5px; PADDING-BOTTOM: 5px;"}
+![Wenonah]({{ site.url }}/assets/images/wenonah_headshot.jpg){:width="200px" align="right" style="PADDING-LEFT: 5px; PADDING-BOTTOM: 5px;"}
 
 My name is Wenhao Zhang and you might also know me as Wenonah. I am an undergraduate at **Claremont McKenna College** studying Economics and Applied Mathematics with some emphasis on Computer Science.  As a rising senior, I have dedicated myself to **Lowe Institute of Political Economy**, where I investigated the labor market condition in both Inland Empire and Coachella Valley and produced comprehensive economic and demographic annual reports. I developed my interest in quantitive methods through working on these public policy research. However, after I accidentally took the Stanford online Machine Learning course, constructing econometric models no long satisfies my curiosity.  I started to seek an opportunity to explore more in Data Science and Data Science for Social Good perfectly combines my previous experience in policy analysis as well as my passion to work on some data-intensive projects. 
 
